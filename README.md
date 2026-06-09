@@ -4,126 +4,209 @@
 
 ---
 
-## Intruduction
+## Introduction
 
-The global automobile industry is one of the most complex and interconnected industries in the world. It depends on raw materials, semiconductors, energy, and supply chains that span dozens of countries. When geopolitical conflicts disrupt any part of this chain, the effects ripple across the entire industry — from factory floors in Germany to car dealerships in India.
+The global automobile industry is one of the most interconnected industries
+in the world. It depends on raw materials, semiconductors, energy, and supply
+chains that span dozens of countries. When geopolitical conflicts disrupt any
+part of this chain, the effects ripple across the entire industry — from
+factory floors in Germany to car dealerships in India.
 
-In recent years, two major conflicts have had a significant impact on the automobile market: the Russia-Ukraine war that began in February 2022, and the ongoing tensions in the Middle East. This article examines how these conflicts have affected raw material supply, manufacturing, car prices, and consumer behavior worldwide.
-
----
-
-## The Russia-Ukraine War and Its Impact
-
-### 1. The Semiconductor Chip Shortage
-
-Modern cars are not just mechanical machines — a typical car today contains between 1,000 and 3,000 semiconductor chips. These chips control everything from the engine and brakes to infotainment systems and safety features.
-
-Ukraine is one of the world's largest suppliers of **neon gas**, which is a critical material used in the lasers that manufacture semiconductor chips. Before the war, Ukraine supplied approximately 50% of the world's neon gas. When the conflict began in 2022, neon gas production was severely disrupted, worsening an already existing global chip shortage.
-
-The result: automakers like Volkswagen, BMW, Ford, and General Motors were forced to halt or slow down production lines because they simply did not have enough chips to complete vehicles.
-
-### 2. Palladium and Nickel Supply Disruptions
-
-Russia is one of the world's largest producers of **palladium** and **nickel** — two metals that are critically important to the automobile industry.
-
-- **Palladium** is used in catalytic converters, which are required in petrol and diesel vehicles to reduce harmful emissions.
-- **Nickel** is a key component in lithium-ion batteries used in electric vehicles (EVs).
-
-When sanctions were imposed on Russia following the invasion of Ukraine, the global supply of these metals tightened. Prices for palladium and nickel spiked sharply in 2022, directly increasing the manufacturing cost of both traditional and electric vehicles.
-
-### 3. European Automakers Hit Hardest
-
-European automobile manufacturers were particularly affected because of their geographic and economic proximity to the conflict. Companies like Volkswagen, BMW, Mercedes-Benz, and Volvo had parts suppliers located in Ukraine. When the war began, these supply lines were cut off almost immediately.
-
-Volkswagen was forced to temporarily shut down production at multiple plants in Germany in early 2022 due to the shortage of wire harnesses — a component that was largely manufactured in western Ukraine.
+In recent years, two major conflicts have significantly impacted the automobile
+market: the Russia-Ukraine war that began in 2022, and the ongoing US-Israel
+war on Iran that erupted in February 2026. While the Russia-Ukraine war served
+as an early warning of how fragile global supply chains are, the 2026 Iran war
+has caused what the International Energy Agency has described as the largest
+oil supply disruption in the history of the global market. This article
+examines how these conflicts have affected raw materials, manufacturing, car
+prices, and consumer behavior worldwide.
 
 ---
 
-## Middle East Tensions and Oil Price Volatility
+## Part 1: The Russia-Ukraine War — A Historical Turning Point
 
-### 1. Rising Fuel Prices
+### The Semiconductor Chip Shortage
 
-The Middle East is responsible for a significant portion of the world's oil supply. Conflict and instability in the region — including the Israel-Gaza war and Houthi attacks on Red Sea shipping routes — have contributed to uncertainty in global oil markets.
+Modern cars contain between 1,000 and 3,000 semiconductor chips, controlling
+everything from engines and brakes to infotainment and safety systems. Ukraine
+was one of the world's largest suppliers of neon gas, a critical material used
+in the lasers that manufacture these chips. When the conflict began in 2022,
+neon gas supply was severely disrupted, worsening an already existing global
+chip shortage. Automakers like Volkswagen, BMW, Ford, and General Motors were
+forced to slow or halt production because they did not have enough chips to
+complete vehicles.
 
-Higher oil prices directly affect the automobile market in two ways:
-- They increase the **cost of manufacturing** vehicles, as energy is required at every stage of production.
-- They change **consumer behavior** — when fuel becomes expensive, buyers shift away from large SUVs and petrol vehicles toward fuel-efficient and electric alternatives.
+### Raw Material Disruptions
 
-### 2. Shipping and Logistics Disruptions
+Russia is one of the world's largest producers of palladium and nickel — two
+metals critical to the automobile industry. Palladium is used in catalytic
+converters in petrol and diesel vehicles, while nickel is a key component in
+EV batteries. Western sanctions imposed on Russia caused prices of both metals
+to spike sharply, directly increasing the manufacturing cost of vehicles.
 
-The Red Sea is one of the most important shipping routes in the world. Houthi attacks on commercial vessels in the Red Sea starting in late 2023 forced many shipping companies to reroute their vessels around the Cape of Good Hope in Africa — adding weeks to delivery times and significantly increasing shipping costs.
+### Supply Chain Lessons
 
-For the automobile industry, this meant:
-- Delayed delivery of imported vehicles to markets in Europe, Asia, and India
-- Increased cost of shipping finished vehicles and parts
-- Higher prices passed on to the end consumer
+The Russia-Ukraine war forced the global automobile industry to confront a
+hard truth: decades of cost-driven globalisation had created supply chains
+that were efficient but dangerously fragile. This realisation triggered a
+global push to diversify suppliers and bring manufacturing closer to home —
+a trend that continues to shape the industry today.
+
+---
+
+## Part 2: The 2026 US-Iran War — The Current Crisis
+
+### What Happened
+
+On February 28, 2026, the United States and Israel launched strikes on Iran's
+nuclear facilities. Iran responded by blocking the Strait of Hormuz — a narrow
+waterway through which approximately 20% of the world's daily oil supply
+passes. The International Energy Agency described the resulting disruption as
+the largest in the history of the global oil market.
+
+### Oil Price Shock
+
+The impact on oil prices was immediate and severe. Brent crude prices surged
+from around $65-70 per barrel before the conflict to above $110 per barrel
+within weeks. At peak disruption, prices briefly crossed $122 per barrel.
+This single event erased years of relative oil price stability and sent shockwaves
+through every industry that depends on energy — including automobiles.
+
+### Impact on the Automobile Industry
+
+The effect on automobiles has been direct and wide-ranging:
+
+- **Manufacturing costs have risen sharply** as energy is required at every
+stage of vehicle production
+- **Diesel and jet fuel prices have risen even more than petrol**, increasing
+the cost of shipping vehicles and parts across the world
+- **Base oils and industrial lubricants** used in vehicle manufacturing and
+maintenance have fallen into short supply, as Bloomberg reported in May 2026
+- **Consumer demand for petrol and diesel vehicles has softened** as buyers
+hesitate due to high running costs
+- **The Middle East automobile market has contracted**, with GlobalData
+revising its 2026 forecast for the region down by 12.5%, from 3.1 million
+to 2.7 million units
+
+### The Strait of Hormuz and Shipping
+
+The effective closure of the Strait of Hormuz has stranded nearly 200 vessels
+and halted the majority of crude oil exports from the Persian Gulf. Shipping
+companies have been forced to take longer alternative routes, adding weeks
+to delivery times and significantly increasing costs. For the automobile
+industry, this means delayed delivery of both vehicles and components to
+markets across Asia, Europe, and beyond.
 
 ---
 
-## Effect on Car Prices and Availability
-
-The combined effect of these disruptions has been significant:
-
-- **New car prices rose globally** between 2022 and 2024 due to supply shortages and higher manufacturing costs
-- **Waiting periods increased** — in some markets, customers had to wait 6 to 12 months for a new car
-- **Used car prices surged** as buyers who could not get new cars turned to the second-hand market
-- In India, popular models from Maruti Suzuki, Hyundai, and Tata Motors saw extended waiting periods due to the global chip shortage
-
----
-
-## Shift in Consumer Behavior
-
-These conflicts have accelerated some long-term trends in the automobile market:
-
-**1. Faster adoption of Electric Vehicles**
-Rising fuel prices pushed more consumers toward EVs. Global EV sales grew significantly between 2022 and 2024, with markets like China, Europe, and the US seeing record numbers.
-
-**2. Demand for smaller, fuel-efficient cars**
-In markets like India, high fuel prices increased demand for CNG vehicles and small hatchbacks over larger SUVs.
-
-**3. Push for supply chain localization**
-Automakers began reducing their dependence on single-country suppliers. Many companies started building semiconductor manufacturing facilities in their home countries — for example, the US CHIPS Act encouraged domestic chip production to reduce dependence on foreign suppliers.
-
----
 ## Case Study: Impact on the Indian Automobile Market
 
-India is the third largest automobile market in the world, and despite not being directly involved in either conflict, it has felt the effects significantly.
+India is the third largest automobile market in the world and one of the
+countries most deeply affected by the 2026 Iran war, despite not being a
+party to the conflict.
 
-### 1. Chip Shortage and Waiting Periods
+### The Oil Import Problem
 
-India's automobile sector was hit hard by the global semiconductor shortage. Popular models saw unprecedented waiting periods:
+India imports roughly 85% of its crude oil. The combination of the Strait of
+Hormuz closure and a weakening rupee has created what analysts have called a
+"double whammy" — oil priced in US dollars has become more expensive both
+because of higher global prices and because of the rupee depreciating past
+92 to the dollar in March 2026. Indian refineries are paying significantly
+more for every barrel of oil than they were just months ago.
 
-- **Maruti Suzuki** models like the Brezza and Ertiga had waiting periods of 4 to 8 months at peak shortage
-- **Tata Motors** EVs like the Nexon EV had waiting periods exceeding 6 months
-- **Hyundai** and **Kia** models faced similar delays across their lineups
+### Government Intervention to Shield Consumers
 
-Dealers were unable to fulfill bookings on time, and in some cases customers cancelled orders entirely.
+Faced with crude prices surging from roughly $70 to $122 per barrel, the
+Indian government chose to absorb much of the cost rather than pass it on
+to consumers immediately. In late March 2026, the government cut central
+excise duties on petrol and diesel by ₹10 per litre each, taking a significant
+hit to tax revenues to prevent pump prices from spiking. However, by May 2026
+India had hiked retail fuel prices as the fiscal burden became unsustainable,
+making it one of the last major economies to pass higher crude costs on to
+consumers.
 
-### 2. Rising Vehicle Prices
+### Impact on Vehicle Sales and Consumer Behavior
 
-Between 2022 and 2024, nearly every major automaker in India announced multiple price hikes. Maruti Suzuki, Tata Motors, Hyundai, and Mahindra all cited rising input costs — including steel, aluminium, and semiconductors — as the reason. Some models saw cumulative price increases of 10 to 15% over two years.
+Higher fuel prices have had a direct impact on the Indian automobile market:
 
-### 3. Fuel Prices and the CNG Boom
+- **Demand for ICE (Internal Combustion Engine) vehicles has softened**,
+particularly for larger SUVs and premium petrol cars
+- **CNG vehicle demand has surged** as consumers look for cheaper alternatives.
+Maruti Suzuki, which leads the Indian CNG segment, has seen strong demand
+for its CNG lineup
+- **EV adoption has accelerated**, as the gap between running costs of EVs
+versus petrol vehicles widens further. Tata Motors, which dominates the
+Indian EV market, stands to benefit significantly from this shift
+- **Component costs have risen** as synthetic rubber, petrochemical
+derivatives, and other oil-linked materials have become more expensive,
+pushing up manufacturing costs for domestic automakers
 
-Rising global oil prices pushed petrol and diesel prices higher in India as well. This directly accelerated the demand for CNG vehicles. Maruti Suzuki, which has the largest CNG portfolio in India, saw record CNG vehicle sales during this period as consumers looked for cheaper alternatives to petrol.
+### The Ethanol Opportunity
 
-### 4. The EV Push
+One of India's most significant responses to the crisis has been the
+acceleration of its ethanol blending program. Many fuel stations across India
+now sell petrol blended with 20% ethanol, reducing dependence on imported
+crude. The government has proposed expanding this further. This directly
+affects the automobile industry, as vehicle manufacturers must ensure their
+engines are compatible with higher ethanol blends — creating both a challenge
+and an engineering opportunity.
 
-High fuel prices also accelerated EV adoption in India. Tata Motors, which dominates the Indian EV market, saw its EV sales grow rapidly between 2022 and 2024. The government's FAME II subsidy scheme combined with rising fuel costs made EVs a more attractive option for urban buyers than ever before.
+### The Chip Shortage Legacy
 
-### 5. Opportunity for Indian Suppliers
+The India automobile market is still carrying scars from the 2022 chip
+shortage triggered by the Russia-Ukraine war. Models from Maruti Suzuki,
+Tata Motors, Hyundai, and Kia had waiting periods of 4 to 8 months at the
+peak of the shortage. While the chip situation has improved since then, the
+2026 oil crisis has added a new layer of disruption on top of an industry
+that had not fully recovered.
 
-The global push to reduce dependence on conflict-prone supply chains created an unexpected opportunity for India. Several global automakers began looking at India as an alternative manufacturing and sourcing hub. This aligns with the Indian government's Production Linked Incentive (PLI) scheme for the automobile sector, which aims to attract global investment into domestic manufacturing.
+### India's Strategic Opportunity
+
+Despite the challenges, the current crisis has highlighted India's potential
+as an alternative manufacturing hub. As global automakers continue reducing
+dependence on conflict-prone regions, India's large domestic market,
+growing engineering talent pool, and government incentives under the
+Production Linked Incentive (PLI) scheme make it an attractive destination
+for automobile manufacturing investment.
+
+---
+
+## Shift in Consumer Behavior Globally
+
+Both conflicts together have accelerated several long-term trends:
+
+**Faster EV adoption:** High fuel prices have pushed consumers toward electric
+vehicles across all major markets. The economic case for EVs has never been
+stronger.
+
+**Demand for fuel-efficient vehicles:** Smaller, fuel-efficient cars and
+hybrids have seen renewed demand as consumers rethink the cost of running
+larger vehicles.
+
+**Supply chain localization:** Automakers are actively reducing single-country
+dependencies. The US CHIPS Act, India's PLI scheme, and Europe's push for
+domestic battery manufacturing are all direct responses to the vulnerabilities
+exposed by these conflicts.
+
+---
 
 ## Conclusion
 
-The global automobile industry has always been vulnerable to geopolitical events, but the conflicts of the early 2020s have exposed just how deeply interconnected and fragile global supply chains are. From neon gas in Ukraine to oil tankers in the Red Sea, events thousands of kilometers away can determine whether a car rolls off a production line or sits incomplete in a factory.
+The global automobile industry has been hit by two major geopolitical shocks
+within four years — and the effects are still unfolding. The Russia-Ukraine
+war exposed the fragility of semiconductor and raw material supply chains.
+The 2026 US-Iran war has delivered what may be the most severe oil supply
+disruption in modern history, with consequences that will shape the industry
+for years to come.
 
-For the automobile industry going forward, the focus will be on building more resilient supply chains, accelerating the transition to electric vehicles, and reducing dependence on conflict-prone regions for critical materials.
+For India specifically, the crisis has underscored both the vulnerability of
+being a heavily oil-dependent economy and the opportunity to accelerate
+toward energy independence through EVs, ethanol, and domestic manufacturing.
 
-As a future mechanical engineer, understanding these macroeconomic and geopolitical forces is just as important as understanding how an engine works — because the industry you enter will be shaped by both.
+As a future mechanical engineer, understanding these forces is as important
+as understanding how an engine works — because the industry you enter will
+be shaped by both the machines it builds and the world those machines operate in.
 
 ---
 
 *Published on GitHub | Written as an independent research article | June 2026*
-
