@@ -4,7 +4,7 @@
 
 ---
 
-## Introduction
+## Intruduction
 
 The global automobile industry is one of the most complex and interconnected industries in the world. It depends on raw materials, semiconductors, energy, and supply chains that span dozens of countries. When geopolitical conflicts disrupt any part of this chain, the effects ripple across the entire industry — from factory floors in Germany to car dealerships in India.
 
